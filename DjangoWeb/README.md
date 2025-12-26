@@ -4,4 +4,3 @@ Bước 1: Tạo môi trường ảo
 Bước 3: Chạy server
 python manage.py runserver 8080
 --------------------
-bạn làm theo các bước trên là đc
